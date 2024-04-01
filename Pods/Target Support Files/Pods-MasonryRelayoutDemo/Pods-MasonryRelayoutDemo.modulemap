@@ -1,0 +1,6 @@
+framework module Pods_MasonryRelayoutDemo {
+  umbrella header "Pods-MasonryRelayoutDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
